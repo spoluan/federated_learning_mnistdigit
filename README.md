@@ -1,5 +1,7 @@
 **Project Descriptions**
 
+![alt](Image/1_HaH611vAy2eB1e42vz3X4g.webp)
+
 Federated Learning is a decentralized approach to training machine learning models using data from multiple sources while preserving privacy. In traditional machine learning, data is sent to a central server for training, but in Federated Learning, the training happens on the individual devices or clients themselves.
 
 For example, let's consider the task of classifying handwritten digits using the popular MNIST dataset. Instead of collecting all the data and training the model on a central server, we can distribute the training process to multiple devices or clients, each having a subset of the data. In this case, we assume there are 7 clients.
